@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CaelumEstoque.App_Start;
+using CaelumEstoque.Filtros;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -12,6 +14,7 @@ namespace CaelumEstoque
     {
         protected void Application_Start()
         {
+            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
