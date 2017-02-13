@@ -47,6 +47,7 @@ C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\CaelumEstoque.dl
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\CaelumEstoque.pdb
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\EntityFramework.dll
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\EntityFramework.SqlServer.dll
+C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\Microsoft.Web.Infrastructure.dll
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\System.Web.Helpers.dll
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\System.Web.Mvc.dll
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\System.Web.Razor.dll
@@ -61,7 +62,5 @@ C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\System.Web.Webpa
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\System.Web.Webpages.Razor.xml
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\System.Web.Helpers.xml
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\System.Web.Mvc.xml
-C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.csprojResolveAssemblyReference.cache
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.dll
 C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.pdb
-C:\Projetos\Alura\asp-net-mvc-5\CaelumEstoque\CaelumEstoque\bin\Microsoft.Web.Infrastructure.dll
